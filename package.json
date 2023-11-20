@@ -17,6 +17,11 @@
     "prettier": "prettier --check \"./src/**/*.{js,jsx}\""
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@radix-ui/react-icons": "^1.3.0",
     "@radix-ui/react-navigation-menu": "^1.1.4",
     "@reduxjs/toolkit": "^1.9.6",
@@ -27,7 +32,8 @@
     "react-dom": "^18.2.0",
     "react-i18next": "^13.2.2",
     "react-redux": "^8.1.2",
-    "react-router-dom": "^6.16.0"
+    "react-router-dom": "^6.16.0",
+    "sass": "^1.69.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.7.2",

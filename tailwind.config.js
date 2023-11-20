@@ -10,13 +10,10 @@ export default {
       colors: {
         error: '#D33E3E',
         success: '#3ED33E',
-        grey: '#EAEDE7',
-        black: '#000000',
-        orange: '#E98F0A',
-        green: '#4B7367',
-        red: '#d33e3e',
-        'light-green': '#7B8F6A',
-        'light-grey': '#FEFDFD',
+        blue: '#5B94A4',
+        orange: '#FC9C04',
+        'dark-blue': '#bed5db',
+        'dark-orange': '#ff9933',
       },
       keyframes: {
         hide: {

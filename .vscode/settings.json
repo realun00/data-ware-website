@@ -4,6 +4,8 @@
   "editor.formatOnSave": true,
   "css.lint.unknownProperties": "ignore",
   "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownProperties": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
   "tailwindCSS.experimental.classRegex": [
     ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
     ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]

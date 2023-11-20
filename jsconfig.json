@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["./src/*"],
+      "router/*": ["./src/router/*"],
+      "stories/*": ["./src/stories"],
+      "assets/*": ["./src/assets/*"],
+      "helpers/*": ["./src/helpers/*"],
+      "hooks/*": ["./src/hooks/*"],
+      "components/*": ["./src/components/*"],
+      "translations/*": ["./src/translations/*"],
+      "components": ["./src/components"]
+    }
+  }
+}
