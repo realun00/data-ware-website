@@ -20,7 +20,7 @@ function Footer({ siteTitle }) {
 
   return (
     <footer>
-      <Container className='flex flex-wrap justify-between'>
+      <Container className='flex flex-col flex-wrap justify-start overflow-hidden md:flex-row md:justify-between'>
         <div className='flex flex-col justify-between'>
           <div className='mb-3 flex items-center justify-between'>
             <NavLink

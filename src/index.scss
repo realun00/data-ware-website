@@ -30,14 +30,6 @@ body {
   }
 }
 
-a {
-  color: #fff;
-
-  &:hover {
-    color: theme('colors.orange');
-  }
-}
-
 .back-to-top {
   position: fixed;
   right: 15px;
@@ -87,11 +79,6 @@ header {
   top: 0;
   width: 100%;
   z-index: 100;
-
-  a {
-    margin-left: 0.8rem;
-    text-decoration: none;
-  }
 }
 
 footer {
